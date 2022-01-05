@@ -1,4 +1,4 @@
-class Player 
+class Players
     attr_accessor :life
     attr_reader :name
   

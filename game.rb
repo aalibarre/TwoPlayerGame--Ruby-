@@ -1,4 +1,4 @@
-require './player'
+require './players'
 
 class Game 
   attr_reader :status_num_of_lives, :players, :current_player
